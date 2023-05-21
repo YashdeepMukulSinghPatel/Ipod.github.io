@@ -1,6 +1,6 @@
 #  𝐈𝐩𝐨𝐝 𝐀𝐩𝐩 - 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 🦁
 #  🔗Links👇
-#  🌐Checkout the Website [𓂀 𝕎𝕖𝕓 𝔸𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𓂀](https://placementcell-lhhh.onrender.com)
+#  🌐Checkout the Website [𓂀 𝕎𝕖𝕓 𝔸𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𓂀](https://yashdeepmukulsinghpatel.github.io/Ipod.github.io/)
 ---
 ---
 ## Introduction : 🫵

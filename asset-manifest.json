@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ipod.github.io/static/css/main.d44b0ce5.css",
+    "main.js": "/Ipod.github.io/static/js/main.bc4f5f67.js",
+    "static/media/Despacito.mp3": "/Ipod.github.io/static/media/Despacito.70e5f7d67b82fd9ec4a8.mp3",
+    "static/media/Senorita.mp3": "/Ipod.github.io/static/media/Senorita.772386f42fc79d5e876b.mp3",
+    "static/media/OnMyWay.mp3": "/Ipod.github.io/static/media/OnMyWay.e5129009c12489f4b0a5.mp3",
+    "static/media/Despacito.jpg": "/Ipod.github.io/static/media/Despacito.d35b12cc5240358d21ed.jpg",
+    "static/media/settings.png": "/Ipod.github.io/static/media/settings.1a8cf63f7923565fce52.png",
+    "static/media/Yashdeep.jpg": "/Ipod.github.io/static/media/Yashdeep.3da65b7921caca4155ab.jpg",
+    "static/media/OnMyWay.jpg": "/Ipod.github.io/static/media/OnMyWay.73756dcc62da03d45cf7.jpg",
+    "static/media/Ipod.jpg": "/Ipod.github.io/static/media/Ipod.5f82a54df1275c8c48f9.jpg",
+    "static/media/Senorita.webp": "/Ipod.github.io/static/media/Senorita.9d9a36f356f81bbcd54c.webp",
+    "static/media/music.jpg": "/Ipod.github.io/static/media/music.d3f47a5fe238e26b5f92.jpg",
+    "static/media/BlueJelly.png": "/Ipod.github.io/static/media/BlueJelly.2e398162a4627a5eaf7b.png",
+    "static/media/BlueCubes.png": "/Ipod.github.io/static/media/BlueCubes.2c4897f698d059400df0.png",
+    "index.html": "/Ipod.github.io/index.html",
+    "main.d44b0ce5.css.map": "/Ipod.github.io/static/css/main.d44b0ce5.css.map",
+    "main.bc4f5f67.js.map": "/Ipod.github.io/static/js/main.bc4f5f67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44b0ce5.css",
+    "static/js/main.bc4f5f67.js"
+  ]
+}
